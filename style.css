@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Navmenu */
+.blue-1 {
+    background-color: #F1F3FF;
+}
+
+.offcanvas-body .nav-items {
+    background-color: #5CB85F;
+    border-radius: 7px;
+}
+ nav {
+     position: fixed;
+ }
+/* Sewa & Rental Mobil Terbaik di kawasan Jakarta */
+.cars {
+    background-color:#F1F3FF;
+    padding-top: 60px;
+}
+
+h1 {
+    margin-top: 70px;
+}
+
+/* Testimonial */
+.card {
+    display: flex;
+}
+.profil {
+    width: 70px !important;
+    margin: auto;
+    margin-top: 50px;
+}
+
+/* Banner */
+.fluid-container {
+    background-color: #0D28A6;
+    text-align: center;
+    color: white;
+    border-style: square;
+    padding : 10%;
+    margin-top: 35px;
+    border-radius: 15px;
+}
+
+/* Button */
+.btn:hover {
+    background-color: #05595B;
+}
